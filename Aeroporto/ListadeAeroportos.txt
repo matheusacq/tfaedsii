@@ -1,0 +1,120 @@
+América do Norte e do Sul;Boston;BOS;Aeroporto Internacional de Logan
+América do Norte e do Sul;Buenos Aires;EZE;Aeroporto Internacional Ministro Pistarini
+América do Norte e do Sul;Chicago;ORD;Aeroporto Internacional de O'Hare
+América do Norte e do Sul;Cidade do Panamá;PTY;Aeroporto Internacional de Tocumen
+América do Norte e do Sul;Dallas;DFW;Aeroporto Internacional de Dallas/Fort Worth
+América do Norte e do Sul;Houston;IAH;Aeroporto Intercontinental George Bush
+América do Norte e do Sul;Los Angeles;LAX;Aeroporto Internacional de Los Angeles
+América do Norte e do Sul;Nova York;JFK;Aeroporto Internacional John F Kennedy
+América do Norte e do Sul;Orlando;MCO;Aeroporto Internacional de Orlando (próximo de Jacksonville, Tampa)
+América do Norte e do Sul;Rio de Janeiro;GIG;Aeroporto Internacional Antônio Carlos Jobim (Galeão)
+América do Norte e do Sul;San Francisco;SFO;Aeroporto Internacional de São Francisco
+América do Norte e do Sul;São Paulo;GRU;Aeroporto Internacional de Guarulhos
+América do Norte e do Sul;Seattle;SEA;Aeroporto Internacional de Seattle-Tacoma
+América do Norte e do Sul;Toronto;YYZ;Aeroporto Internacional de Pearson
+América do Norte e do Sul;Washington;IAD;Aeroporto Internacional Dulles
+Europa;Amsterdã;AMS;Aeroporto de Amsterdã Schiphol
+Europa;Atenas;ATH;Aeroporto Eleftherios Venizelos
+Europa;Barcelona;BCN;Aeroporto de El Prat
+Europa;Birmingham;BHX;Aeroporto Internacional de Birmingham
+Europa;Bolonha;BLQ;Aeroporto de Bolonha (próximo a Florença)
+Europa;Bruxelas;BRU;Aeroporto de Bruxelas
+Europa;Budapeste;BUD;Aeroporto Internacional de Ferenc Liszt
+Europa;Copenhague;CPH;Aeroporto de Copenhague
+Europa;Dublin;DUB;Aeroporto de Dublin
+Europa;Düsseldorf;DUS;Aeroporto de Düsseldorf
+Europa;Estocolmo;ARN;Aeroporto de Estocolmo-Arlanda
+Europa;Frankfurt;FRA;Aeroporto Internacional Rhein-Main
+Europa;Genebra;GVA;Aeroporto Internacional de Genebra
+Europa;Glasgow;GLA;Aeroporto Internacional de Glasgow
+Europa;Hamburgo;HAM;Aeroporto de Hamburgo
+Europa;Istambul;IST;Aeroporto de Ataturk
+Europa;Istambul;SAW;Aeroporto Internacional de Istambul Sabiha Gokcen
+Europa;Larnaca;LCA;Aeroporto de Larnaca
+Europa;Lisboa;LIS;Aeroporto Lisboa Portela
+Europa;Londres;LGW;Aeroporto de Londres Gatwick
+Europa;Londres;LHR;Aeroporto de Londres Heathrow
+Europa;Lyon;LYS;Aeroporto de Lyon-Saint Exupéry
+Europa;Madri;MAD;Aeroporto de Madri-Barajas
+Europa;Malta;MLA;Aeroporto Internacional de Malta
+Europa;Manchester;MAN;Aeroporto Internacional de Manchester
+Europa;Milão;MXP;Aeroporto de Malpensa
+Europa;Moscou;DME;Aeroporto de Domodedovo
+Europa;Munique;MUC;Aeroporto Franz Josef Strauss
+Europa;Newcastle;NCL;Aeroporto de Newcastle
+Europa;Nice;NCE;Aeroporto Internacional da Cote d'Azur
+Europa;Oslo;OSL;Aeroporto Gardermoen
+Europa;Paris;CDG;Aeroporto Charles De Gaulle
+Europa;Praga;PRG;Aeroporto de Václav Havel
+Europa;Roma;FCO;Aeroporto de Fiumicino
+Europa;São Petersburgo;LED;Aeroporto Internacional de Pulkovo
+Europa;Varsóvia;WAW;Aeroporto de Varsóvia Frédéric Chopin
+Europa;Veneza;VCE;Aeroporto Marco Polo
+Europa;Viena;VIE;Aeroporto Internacional de Viena
+Europa;Zurique;ZRH;Aeroporto de Zurique-Kloten
+Oriente Médio;Amã;AMM;Aeroporto Internacional Queen Alia
+Oriente Médio;Bahrain;BAH;Aeroporto Internacional de Bahrain
+Oriente Médio;Beirute;BEY;Aeroporto Internacional Rafic Hariri
+Oriente Médio;Cairo;CAI;Aeroporto Internacional do Cairo
+Oriente Médio;Cidade do Kuwait;KWI;Aeroporto Internacional do Kuwait
+Oriente Médio;Dammam;DMM;Aeroporto Internacional King Fahd
+Oriente Médio;Doha;DOH;Aeroporto Internacional de Hamad
+Oriente Médio;Dubai;DXB;Aeroporto Internacional do Dubai
+Oriente Médio;Erbil;EBL;Aeroporto Internacional de Erbil
+Oriente Médio;Jedá;JED;Aeroporto Internacional King Abdulaziz
+Oriente Médio;Mascate;MCT;Aeroporto Internacional de Mascate
+Oriente Médio;Riyadh;RUH;Aeroporto Internacional King Khaled
+Oriente Médio;Teerã;IKA;Aeroporto Internacional de Imam Khomeini
+África;Abidjan;ABJ;Aeroporto Felix Houphouet Boigny
+África;Acra;ACC;Aeroporto Internacional de Kotoka
+África;Adis Abeba;ADD;Aeroporto Internacional de Bole
+África;Argel;ALG;Aeroporto Houari Boumediene
+África;Cairo;CAI;Aeroporto Internacional do Cairo
+África;Casablanca;CMN;Aeroporto Internacional Mohamed V
+África;Cidade do Cabo;CPT;Aeroporto Internacional da Cidade do Cabo
+África;Dar Es Salaam;DAR;Aeroporto Internacional de Dar Es Salaam
+África;Durban;DUR;Aeroporto Internacional King Shaka
+África;Joanesburgo;JNB;Aeroporto Internacional O R Tambo
+África;Lagos;LOS;Aeroporto Murtala Muhammed
+África;Maurício;MRU;Aeroporto Internacional Sir Seewoosagur Ramgoolam
+África;Nairóbi;NBO;Aeroporto Internacional Jomo Kenyatta
+África;Seychelles;SEZ;Aeroporto Internacional de Seychelles
+África;Túnis;TUN;Aeroporto de Cartago
+Ásia e Pacífico;Adelaide;ADL;Aeroporto de Adelaide
+Ásia e Pacífico;Ahmedabad;AMD;Aeroporto Internacional Sardar Vallabhbhai Patel
+Ásia e Pacífico;Auckland;AKL;Aeroporto Internacional de Auckland
+Ásia e Pacífico;Bali;DPS;Aeroporto Internacional de Ngurah Rai Denpasar Bali Indonésia
+Ásia e Pacífico;Bangalore;BLR;Aeroporto Internacional de Bengaluru
+Ásia e Pacífico;Bangkok;BKK;Aeroporto Internacional de Suvarnabhumi
+Ásia e Pacífico;Brisbane;BNE;Aeroporto de Brisbane
+Ásia e Pacífico;Calcutá;CCU;Aeroporto Internacional Netaji Subhas Chandra Bose
+Ásia e Pacífico;Chennai (Madras);MAA;Aeroporto Internacional de Chennai
+Ásia e Pacífico;Christchurch;CHC;Aeroporto Internacional de Christchurch
+Ásia e Pacífico;Cidade de Ho Chi Minh;SGN;Aeroporto Internacional Tan Son Nhat
+Ásia e Pacífico;Cingapura;SIN;Aeroporto de Changi
+Ásia e Pacífico;Colombo;CMB;Aeroporto de Bandaranayake
+Ásia e Pacífico;Déli;DEL;Aeroporto Internacional Indira Gandhi
+Ásia e Pacífico;Guangzhou;CAN;Aeroporto Internacional de Guangzhou Baiyun
+Ásia e Pacífico;Hong Kong;HKG;Aeroporto Internacional de Hong Kong
+Ásia e Pacífico;Hyderabad;HYD;Aeroporto Rajiv Gandhi
+Ásia e Pacífico;Islamabad;ISB;Aeroporto Internacional de Islamabad
+Ásia e Pacífico;Jacarta;CGK;Aeroporto Internacional de Soekarno-Hatta
+Ásia e Pacífico;Karachi;KHI;Aeroporto Internacional Quaid-E-Azam
+Ásia e Pacífico;Kuala Lumpur;KUL;Aeroporto Internacional de Kuala Lumpur
+Ásia e Pacífico;Male;MLE;Aeroporto Internacional de Ibrahim Nasir
+Ásia e Pacífico;Manila;MNL;Aeroporto Internacional Ninoy Aquino
+Ásia e Pacífico;Melbourne;MEL;Aeroporto de Tullamarine Melbourne
+Ásia e Pacífico;Mumbai (Bombaim);BOM;Chhatrapati Shivaji Internacional
+Ásia e Pacífico;Osaka;KIX;Aeroporto Internacional de Kansai
+Ásia e Pacífico;Pequim;PEK;Aeroporto Internacional da Capital Pequim
+Ásia e Pacífico;Perth;PER;Aeroporto de Perth
+Ásia e Pacífico;Phuket;HKT;Aeroporto Internacional de Phuket
+Ásia e Pacífico;Seul;ICN;Aeroporto Internacional de Incheon
+Ásia e Pacífico;Seychelles;SEZ;Aeroporto Internacional de Seychelles
+Ásia e Pacífico;Sydney;SYD;Aeroporto Kingsford Smith
+Ásia e Pacífico;Taipei;TPE;Aeroporto Internacional de Taiwan Taoyuan
+Ásia e Pacífico;Thiruvananthapuram (Trivandrum);TRV;Aeroporto Internacional de Thiruvananthapuram
+Ásia e Pacífico;Tóquio;HND;Aeroporto de Tóquio, Haneda
+Ásia e Pacífico;Tóquio;NRT;Aeroporto Internacional de Tóquio Narita
+Ásia e Pacífico;Xangai;PVG;Aeroporto Internacional de Pu Dong
+Ásia e Pacífico;Yangon;RGN;Aeroporto Internacional de Yangon

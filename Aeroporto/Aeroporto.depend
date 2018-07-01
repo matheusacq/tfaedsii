@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1530476254 source:c:\users\mathe\documents\github\tfaedsii\aeroporto\aeroporto.c
+	"aeroporto.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1530476254 c:\users\mathe\documents\github\tfaedsii\aeroporto\aeroporto.h
+
+1530476254 source:c:\users\mathe\documents\github\tfaedsii\aeroporto\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"aeroporto.h"
+
