@@ -15,22 +15,6 @@ int main()
     int f1=0,f2=0,f3=0,f4=0;
     setlocale(LC_ALL, "Portuguese");
     arquivo = fopen("ListadeAeroportos.txt","r");
-    /*fscanf(arquivo, " %[^;]", item);
-    fgetc(arquivo);
-    printf("%s\n", item);
-    fscanf(arquivo, " %[^;]", item);
-    fgetc(arquivo);
-    printf("%s\n", item);
-    fscanf(arquivo, " %[^;]", item);
-    fgetc(arquivo);
-    printf("%s\n", item);
-    fscanf(arquivo, " %[^;]", item);
-    fgetc(arquivo);
-    printf("%s\n", item);
-    fscanf(arquivo, " %[^;]", item);
-    fgetc(arquivo);
-    printf("%s\n", item);
-    return 0;*/
     while(1)
     {
         printf("Lista de Aeroportos\n");
