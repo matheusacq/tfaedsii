@@ -28,7 +28,7 @@ ARV insere (ARV a, AEROPORTO b)
     }
     else
     {
-        if ( strcmp(a->e.continente,b.continente) < 0 )
+        if ( strcmp(a->e.codigo,b.codigo) < 0 )
             a->dir = insere(a->dir, b);
         else
             a->esq = insere(a->esq, b);  /* Repeticoes sao inseridas na esquerda! */
@@ -41,9 +41,9 @@ ARV procura (ARV a , char *b)
 {
     if (EMPTY(a))
         return NULL;
-    else if ( strcmp(a->e.continente,b) == 0 )
+    else if ( strcmp(a->e.codigo,b) == 0 )
         return a;
-    else if ( strcmp(a->e.continente,b) < 0 )
+    else if ( strcmp(a->e.codigo,b) < 0 )
         return procura (a->dir, b);
     else
         return procura (a->esq, b);
